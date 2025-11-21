@@ -25,3 +25,18 @@ Version of bird application
 <img width="1873" height="1007" alt="image" src="https://github.com/user-attachments/assets/8a10e08b-e563-4c9b-913c-2363ed84a42e" />
 
 
+
+
+### Input validation pass
+
+
+<img width="1126" height="685" alt="image" src="https://github.com/user-attachments/assets/7c3f0a64-e2ef-444a-ade3-3c3621b130ee" />
+
+
+
+<img width="1571" height="904" alt="image" src="https://github.com/user-attachments/assets/5ef6f4ae-49f1-42be-b379-1d6637b614e7" />
+
+
+<img width="1712" height="820" alt="image" src="https://github.com/user-attachments/assets/fefd7b21-67b8-4d2d-a59e-d1855b5c9969" />
+
+
