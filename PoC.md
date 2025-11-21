@@ -25,6 +25,10 @@ Version of bird application
 <img width="1873" height="1007" alt="image" src="https://github.com/user-attachments/assets/8a10e08b-e563-4c9b-913c-2363ed84a42e" />
 
 
+Input Validation
+
+<img width="1562" height="898" alt="image" src="https://github.com/user-attachments/assets/af2de2c4-02a1-46d5-bcb4-2628211602d6" />
+
 
 
 ### Input validation pass
@@ -39,4 +43,9 @@ Version of bird application
 
 <img width="1712" height="820" alt="image" src="https://github.com/user-attachments/assets/fefd7b21-67b8-4d2d-a59e-d1855b5c9969" />
 
+
+
+XPATH injection      pass
+
+<img width="1755" height="772" alt="image" src="https://github.com/user-attachments/assets/52067544-6c51-447e-9902-2370b5b12bb0" />
 
