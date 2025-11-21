@@ -49,3 +49,11 @@ XPATH injection      pass
 
 <img width="1755" height="772" alt="image" src="https://github.com/user-attachments/assets/52067544-6c51-447e-9902-2370b5b12bb0" />
 
+Jetty hosted - 
+<img width="1013" height="157" alt="image" src="https://github.com/user-attachments/assets/dbe43cd6-9c51-4b4f-8f6b-618712de15e7" />
+<img width="891" height="290" alt="image" src="https://github.com/user-attachments/assets/5a01c777-558d-4bd3-9096-bfdc4149d7ac" />
+<img width="1317" height="146" alt="image" src="https://github.com/user-attachments/assets/b6d92add-f2be-4ded-bd53-b74eb6d653b4" />
+
+
+
+
